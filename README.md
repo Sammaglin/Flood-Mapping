@@ -41,7 +41,7 @@ It allows users to interactively select their **Area of Interest (AOI)**, define
 You can run this notebook directly in **Google Colab** — no setup required.  
 Simply click the button below 👇  
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)][https://colab.research.google.com/drive/1IeVrm8pZ8-W8oq2KhrGB7x3LymdQCX85#scrollTo=Dv8hH7BGZX_Q]
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1IeVrm8pZ8-W8oq2KhrGB7x3LymdQCX85#scrollTo=Dv8hH7BGZX_Q)
 
 
 ---
