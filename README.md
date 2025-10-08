@@ -73,5 +73,3 @@ Amity Institute of Geoinformatics and Remote Sensing
 This project is licensed under the **MIT License** – feel free to use and modify with credit.
 
 ---
-
-Would you like me to add a **screenshot section** (with placeholders for NDWI map and graph) and a **credits section** for tools or references (like ESA Sentinel Hub, Google Earth Engine)?
